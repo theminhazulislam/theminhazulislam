@@ -30,7 +30,7 @@ I specialize in building 𝗳𝗮𝘀𝘁, 𝗦𝗘𝗢-𝗳𝗿𝗶𝗲𝗻𝗱
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<br>
+<br> <br>
 
 <div align="left">
     📫 Professional Inquiry:
